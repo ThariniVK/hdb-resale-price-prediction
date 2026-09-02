@@ -17,3 +17,5 @@ Thumbs.db
 
 # Raw datasets
 data/*.csv
+
+notebooks/*.pkl
